@@ -4,7 +4,7 @@ vetor_completo = []
 pares = []
 impares = []
 
-for i in range (1,5):
+for i in range (1,21):
     numero = int(input(f"Digite o {i}º valor: "))
     vetor_completo.append(numero)
     if numero % 2 == 0:
