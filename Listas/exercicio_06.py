@@ -27,3 +27,5 @@ for media in mediaNotasAlunos:
         nAlunosMedia+=1
 
 print(f"Número de alunos com média maior que {qtdMediaMaior}: {nAlunosMedia} aluno(s)")
+
+print('test')
